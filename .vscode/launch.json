@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - printColor",
+            "request": "launch",
+            "mainClass": "printColor",
+            "projectName": "Snake_8b95d862"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Snake_8b95d862",
+            "console": "integratedTerminal"
+        }
+    ]
+}
